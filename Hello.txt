@@ -1,3 +1,8 @@
 Hello How are you ?
 i am fine thanks 
+<<<<<<< HEAD
 No i will not
+=======
+yes we can
+ok ok
+>>>>>>> data
